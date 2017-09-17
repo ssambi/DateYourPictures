@@ -1,0 +1,7 @@
+DateYourPictures.Console/bin/*
+DateYourPictures.Console/obj/*
+DateYourPictures/bin/*
+DateYourPictures/obj/*
+DateYourPictures.Tests/bin/*
+DateYourPictures.Tests/obj/*
+*.user
